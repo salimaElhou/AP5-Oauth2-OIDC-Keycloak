@@ -136,7 +136,8 @@ Ce projet a pour but de configurer Keycloak pour sécuriser une architecture **M
     - Ajoutez les annotations de sécurité (`@PreAuthorize`, `@RolesAllowed`) pour sécuriser les endpoints.
 
 ---
-
+4. **Eureka Service :**
+   <img src="captures/eureka.png">
 
 ## Ressources et liens
 
